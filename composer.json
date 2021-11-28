@@ -1,0 +1,15 @@
+{
+    "name": "File Filtration",
+    "description": "New filtration options for NextCloud storage system",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Ondrej Chudacek"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
