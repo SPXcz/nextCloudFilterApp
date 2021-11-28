@@ -2,7 +2,7 @@
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
     <id>filefiltration</id>
-    <name>File Filtration</name>
+    <name>Filte Filtration</name>
     <summary>New filtration options for NextCloud storage system</summary>
     <description><![CDATA[New filtration options for NextCloud storage system]]></description>
     <version>0.0.1</version>
@@ -12,11 +12,11 @@
     <category>tools</category>
     <bugs>https://www.vutbr.cz</bugs>
     <dependencies>
-        <nextcloud min-version="15" max-version="15"/>
+        <nextcloud min-version="22" max-version="22"/>
     </dependencies>
     <navigations>
         <navigation>
-            <name>File Filtration</name>
+            <name>Filter</name>
             <route>filefiltration.page.index</route>
         </navigation>
     </navigations>
